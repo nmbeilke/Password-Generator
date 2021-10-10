@@ -38,7 +38,7 @@ I learned how to use serveral javascript functions and variables together and ho
 I couldn't find a good solution for what to do if someone were to enter a letter or character other than a number in the first prompt.
 
 ## Link
-![Screenshot of live site](/assets/03-javascript-homework-demo.png)
+![Screenshot of live site](https://raw.githubusercontent.com/nmbeilke/Homework-Password-Generator/main/Screen%20Shot%202021-10-09%20at%206.12.40%20PM.png)
 
 https://nmbeilke.github.io/Homework-Password-Generator/
 
