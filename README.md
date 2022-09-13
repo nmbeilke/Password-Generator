@@ -40,7 +40,7 @@ I couldn't find a good solution for what to do if someone were to enter a letter
 ## Link
 ![Screenshot of live site](https://raw.githubusercontent.com/nmbeilke/Homework-Password-Generator/main/Screen%20Shot%202021-10-09%20at%206.12.40%20PM.png)
 
-https://nmbeilke.github.io/Homework-Password-Generator/
+https://nmbeilke.github.io/Password-Generator/
 
 ## Credits
   
